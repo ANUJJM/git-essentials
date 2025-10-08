@@ -1,5 +1,9 @@
 Line 1 from github
 Line 2 from github
-
-This is coming from the rebase-conflict-branch
-
+Line 3 from github
+Line 4 from github
+Line 5 from github
+Line 6 from github
+Added above lines locally from rebase-conflict-branch
+Added above lines locally from master
+>>>>>>> 556f231 (Added rebase-conflict file in master commit)
