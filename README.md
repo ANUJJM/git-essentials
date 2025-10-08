@@ -1,3 +1,5 @@
-# git-essentials
+# git-essentials using github
 
-New things in a new world for git essentials.
+We are learning git essentials using github and command line interface(CLI)
+
+This is the course shared by Niveus Solutions.
